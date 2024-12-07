@@ -1,0 +1,47 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "3 tarot card width": {
+            "board_length": "110",
+            "board_thickness": "10",
+            "board_width": "276",
+            "card_height": "120",
+            "card_number_of": "3",
+            "card_offset_height": "4",
+            "card_offset_width": "17.5",
+            "card_spacing": "10",
+            "card_thickness": "1",
+            "card_width": "73",
+            "corner_radius": "1",
+            "cut_depth": "8",
+            "cut_width_x": "11",
+            "cut_width_y": "6",
+            "number_of_rows_x": "10",
+            "number_of_rows_y": "7"
+        },
+        "tarot card 3 card wide": {
+            "board_length": "110",
+            "board_thickness": "10",
+            "board_width": "276",
+            "card_height": "120",
+            "card_number_of": "3",
+            "card_offset_height": "4",
+            "card_offset_width": "17.5",
+            "card_spacing": "10",
+            "card_thickness": "1",
+            "card_width": "73",
+            "corner_radius": "1",
+            "cut_angle_x": "45",
+            "cut_angle_y": "40",
+            "cut_depth": "7",
+            "cut_offset_x": "-26",
+            "cut_offset_y": "4",
+            "cut_opening_x": "2",
+            "cut_opening_y": "4",
+            "cut_width_x": "11",
+            "cut_width_y": "6",
+            "number_of_rows_x": "4",
+            "number_of_rows_y": "6"
+        }
+    }
+}
