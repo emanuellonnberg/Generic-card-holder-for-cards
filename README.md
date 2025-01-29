@@ -1,0 +1,1 @@
+SCAD project for generating card holder for storing cards while playing. Allows cusomization of cards slots and horizaontal and vertical slits for cards. Created for use in Warhammer Kill team and other games that require an open set of cards.
